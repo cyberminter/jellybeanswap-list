@@ -19,6 +19,10 @@
     "OneCoin": {
       "name": "One Coin",
       "description": "One Coin to rule them all."
+    },
+    "HEBE": {
+      "name": "HEBE Token",
+      "description": "Hebeswap token."
     }
     
     
@@ -59,6 +63,14 @@
       "tags": [
         "OneCoin"
       ]
+    },
+    {
+      "name": "HEBE Token",
+      "address": "0x88d8c3dc6b5324f34e8cf229a93e197048671abd",
+      "symbol": "HEBE",
+      "decimals": 18,
+      "chainId": 61,
+      "logoURI": "https://app.hebeswap.com/logo.png"
     }
 
      
