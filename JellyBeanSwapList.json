@@ -1,0 +1,71 @@
+{
+  "name": "JellyBeanSwapList",
+  "logoURI": "https://raw.githubusercontent.com/cyberminter/jellybeanswap-branding/main/brand/logo.png",
+  "keywords": [
+    "audited",
+    "verified",
+    "special tokens"
+  ],
+  "tags": {
+    
+    "JellyBean": {
+      "name": "JellyBeanCash",
+      "description": "ETC token for the Jelly Bean Swap DEX."
+    },
+    "BrightCoin": {
+      "name": "Bright Coin",
+      "description": "A smart coin for Bright thinking DeFI."
+    },
+    "OneCoin": {
+      "name": "One Coin",
+      "description": "One Coin to rule them all."
+    }
+    
+    
+    
+  },
+
+  "timestamp": "2022-07-05T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 61,
+      "address": "0xc920E13570D9D5058e69Da46Ada32Bc188996d78",
+      "symbol": "BeanCash",
+      "name": "Jelly Bean Cash",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cyberminter/jellybeanswap-branding/main/brand/logo.png",
+      "tags": [
+        "JellyBean"
+      ]
+    },
+    {
+      "chainId": 61,
+      "address": "0x3d39756b1FF9C68a4E552aE5722cFAF4b8BdB543",
+      "symbol": "BLUB",
+      "name": "Bright Coin",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/cyberminter/cybermint/main/logos/cybermintGreen/brightCoin.png",
+      "tags": [
+        "BrightCoin"
+      ]
+    },
+    {
+      "chainId": 61,
+      "address": "0x14045BCe51E1461033C03fdff394F85d2AE6EDF9",
+      "symbol": "OneCoin",
+      "name": "One Coin",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cyberminter/cybermint/main/logos/cybermintGreen/oneCoin.png",
+      "tags": [
+        "OneCoin"
+      ]
+    }
+
+     
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
